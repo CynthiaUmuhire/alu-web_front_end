@@ -177,12 +177,12 @@
   .col-1-3{
     width: 33.33%;
     float: left;
-    padding: 1/2;
+    padding: o.5rem;
   }
 .col-1-2{
     width: 50%;
     float: left;
-    padding: 1/2;
+    padding: o.5rem;
 }
 
 html {
@@ -342,6 +342,6 @@ html {
     color:var(--text-color)
   }
 
-  footer ul{
+  .footer ul{
     text-align: right;
   }
