@@ -51,8 +51,8 @@
     box-sizing: border-box;
   }
   
-  .row:after {
-    content: ""; 
+  .row::after {
+    content: none; 
     display: table;
     clear: both;
  }
